@@ -287,7 +287,6 @@ Readings are available on Canvas under "Modules".
 ### Part IV: Symbols and rules; historical foundations
 
 **Wednesday, November 11 — Lecture 17: Formal systems and propositional logic**
-- **Homework 4 is out.**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
 - *Optional:* Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
@@ -296,6 +295,7 @@ Readings are available on Canvas under "Modules".
 - Unifying Bayesian models and neural networks
 
 **Monday, November 16 — Lecture 18: Production systems and cognitive architectures**
+- **Homework 4 is out.**
 - Anderson, J. R. (1996). ACT: A simple theory of complex cognition. *American Psychologist, 51*, 355–365.
 - Newell, A., Rosenbloom, P. S., & Laird, J. E. (1989). Symbolic architectures for cognition. In M. I. Posner (Ed.), *Foundations of Cognitive Science*, 93–131. Cambridge, MA: MIT Press.
 - *Optional:* Newell, A., & Simon, H. (1956). The logic theory machine — A complex information processing system. *IRE Transactions on Information Theory, 2*, 61–79.
@@ -305,25 +305,23 @@ Readings are available on Canvas under "Modules".
 - Chomsky, N. (1957). *Syntactic Structures.* The Hague: Mouton. Pages 11–48.
 
 **Precept week of Nov 16 and 18**
-- HW 4 help
+- Make 24 Workshop: Coding a miniature production system
 
-**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
-- **Homework 4 is due.**
+**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus 1** 
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - *Optional:* Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
 
 **Wednesday, November 25 — Thanksgiving break -- No class**
 
-**Precept week of Nov 23**
-- Symbolic models
+**NO Precept week of Nov 23 due to Thanksgiving**
 
-**Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
-- TBD
+**Monday, November 30 — Lecture 21: Learning and the poverty of the stimulus 2**
 
 ### Part V: The End
 
 **Wednesday, December 2 — Lecture 22: Auto-experimentation in cognitive science (guest lecture by [Akshay Jagadish](https://akjagadish.github.io/))**
+- **Homework 4 is due.**
 
 **Precept week of Nov 30 and Dec 2**
 - Final exam review
